@@ -1,0 +1,5 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\Андрей\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(53,6): error C3861: out_of_bounds: идентификатор не найден
+C:\Users\Андрей\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(98,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Андрей\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(137,9): error C3861: out_of_bounds: идентификатор не найден
+C:\Users\Андрей\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(153,9): error C3861: out_of_bounds: идентификатор не найден
